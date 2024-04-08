@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <company>
+        <staff>
+            <employee id="1" name="name1" lastname="lastname1"/>
+            <employee id="2" name="name2" lastname="lastname2">
+                <tool>1</tool>
+            </employee>
+        </staff>
+        <equipment>
+            <tool id="1">молоток</tool>
+            <tool id="2">дрель</tool>
+        </equipment>
+    </company>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <company>
+        <equipment>
+            <tool>1234</tool>
+        </equipment>
+        <staff>
+            <employee id1="name1  workingHours1"/>
+            <employee id2="name2  workingHours2"/>
+        </staff>
+    </company>
+</root>
